@@ -1,5 +1,6 @@
+#To change the input numbers using third variable
+
 from tempfile import tempdir
-#change the input numbers using third variable
 
 num1 = input("Enter 1st number:")
 num2 = input("Enter 2nd number:")
