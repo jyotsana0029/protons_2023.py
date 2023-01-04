@@ -2,6 +2,7 @@ age1 = int(input("Please enter your age Person1: "))
 age2 = int(input("Please enter your age Person2: "))
 age3 = int(input("Please enter your age Person3: "))
 
+#  This is a nested loop of elif.....
 if age1 > age2 and age1 >age3 and age2 > age3:
     print("Person1 is the oldest and Person3 is the youngest.")
 
