@@ -1,3 +1,5 @@
+# Tempfile is a Python module used in a situation, where we need to read multiple files, change or access the data in the file, 
+#           and gives output files based on the result of processed data.
 from tempfile import tempdir
 #change the input numbers using third variable
 
