@@ -1,3 +1,4 @@
+# this code is to find wheter the input number is odd or even
 num1 = int(input("Enter a number:"))
 
 
